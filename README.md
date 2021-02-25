@@ -1,3 +1,3 @@
-# Meme-Virality
+# Social-Distancing-Detection
 
 # Soon :)
